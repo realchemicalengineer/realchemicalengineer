@@ -104,11 +104,7 @@ class Hansen:
 
 <div align="center">
 
-## `[ GITHUB STATS ]`
-
-<img src="https://github-readme-stats.vercel.app/api?username=realchemicalengineer&show_icons=true&theme=dark&bg_color=030d1a&title_color=00ffc3&icon_color=00ffc3&text_color=a8d4ef&border_color=0a2a44" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realchemicalengineer&layout=compact&theme=dark&bg_color=030d1a&title_color=00ffc3&text_color=a8d4ef&border_color=0a2a44" height="160"/>
+## `[ THANK YOU! ]`
 
 <br/><br/>
 
