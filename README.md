@@ -93,7 +93,7 @@ class Hansen:
 
 | &nbsp; | &nbsp; | &nbsp; |
 |:---:|:---:|:---:|
-| <img width="100" height="100" alt="WhatsApp Image 2026-05-12 at 9 48 17 PM" src="https://github.com/user-attachments/assets/b82763fd-f4d0-4bb4-941f-73d33ce35164" /> | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6d2c945d-5f98-4d46-a6ab-5efe3616ce74" /> | <img width="100" height="100" alt="bruce-zhang-lab-final-202204" src="https://github.com/user-attachments/assets/c7678cab-dd1f-43c0-a7a1-f60966587c53" />|
+| <img width="100" height="100" alt="WhatsApp Image 2026-05-12 at 9 48 17 PM" src="https://github.com/user-attachments/assets/b82763fd-f4d0-4bb4-941f-73d33ce35164" /> | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6d2c945d-5f98-4d46-a6ab-5efe3616ce74" /> | <img width="100" height="105" alt="image" src="https://github.com/user-attachments/assets/f946bdc5-4bba-4cfb-95f4-65128b9a8ae5" /> |
 | `ALCHEMY LAB · SECTOR 7` | `HEART OF INFINITY · DEEP ORBIT` | `SYNTH FABRICATION ROOM` |
 | <img width="130" height="100" alt="sy-37-sifi-03" src="https://github.com/user-attachments/assets/8f3f4588-6651-435e-bd2d-e2f5c955fe1f" /> | <img width="100" height="110" alt="image" src="https://github.com/user-attachments/assets/0c10ad9e-f562-4c13-8c3a-1da610d5465c" /> | <img width="100" height="105" alt="image" src="https://github.com/user-attachments/assets/654639ee-3db3-403a-b432-5b27b54367da" /> |
 | `PROPULSION BAY · DECK 4` | `STELLAR CARRIER · SECTOR 9` | `MEGASTRUCTURE · GRID-001` |
