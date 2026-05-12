@@ -5,7 +5,8 @@
 <div align="center">
 
 <!-- ── BANNER IMAGE ── -->
-<img src="assets/banner.jpg" alt="banner" width="100%"/>
+<img width="1584" height="396" alt="Blue Modern Software Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/20cf9463-23be-4a24-bbab-6b1b4586e687" />
+
 
 <br/><br/>
 
@@ -21,7 +22,7 @@
 
 <br/>
 
-<img src="assets/profile.jpeg" width="140" style="border-radius:4px" alt="profile"/>
+<img width="150" height="150" alt="bark" src="https://github.com/user-attachments/assets/f5ea05a2-b0ed-4cc4-9af1-1da32e695911" />
 
 <br/><br/>
 
@@ -92,9 +93,9 @@ class Hansen:
 
 | &nbsp; | &nbsp; | &nbsp; |
 |:---:|:---:|:---:|
-| <img src="assets/specimen-a.jpg" width="260" alt="sci-fi lab"/> | <img src="assets/specimen-b.jpg" width="260" alt="space station"/> | <img src="assets/specimen-c.jpg" width="260" alt="research facility"/> |
+| <img width="100" height="100" alt="WhatsApp Image 2026-05-12 at 9 48 17 PM" src="https://github.com/user-attachments/assets/b82763fd-f4d0-4bb4-941f-73d33ce35164" /> | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6d2c945d-5f98-4d46-a6ab-5efe3616ce74" /> | <img width="100" height="100" alt="bruce-zhang-lab-final-202204" src="https://github.com/user-attachments/assets/c7678cab-dd1f-43c0-a7a1-f60966587c53" />|
 | `ALCHEMY LAB · SECTOR 7` | `HEART OF INFINITY · DEEP ORBIT` | `SYNTH FABRICATION ROOM` |
-| <img src="assets/specimen-d.jpg" width="260" alt="spacecraft interior"/> | <img src="assets/specimen-e.jpg" width="260" alt="sci-fi spacecraft"/> | <img src="assets/specimen-f.jpg" width="260" alt="space megastructure"/> |
+| <img width="130" height="100" alt="sy-37-sifi-03" src="https://github.com/user-attachments/assets/8f3f4588-6651-435e-bd2d-e2f5c955fe1f" /> | <img width="100" height="110" alt="image" src="https://github.com/user-attachments/assets/0c10ad9e-f562-4c13-8c3a-1da610d5465c" /> | <img width="100" height="105" alt="image" src="https://github.com/user-attachments/assets/654639ee-3db3-403a-b432-5b27b54367da" /> |
 | `PROPULSION BAY · DECK 4` | `STELLAR CARRIER · SECTOR 9` | `MEGASTRUCTURE · GRID-001` |
 
 </div>
