@@ -52,7 +52,7 @@
 | 🎨 **Arts** | Visual art, illustration, creative work |
 | 🎵 **Music** | Vibes across the frequency spectrum |
 | 📖 **BLs** | Boys' Love manga & media |
-| 🩸 **Hannibal** | *"It's so... RUDE."* |
+| 📐 **Teaching** | *"I teach English, Maths, and Physics"* |
 | ✨ **and more!** | always expanding the database |
 
 ---
