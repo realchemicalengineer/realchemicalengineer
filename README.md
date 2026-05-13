@@ -16,7 +16,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-# `HANSEN` · `VEN` · `HARU`
+# `HANSEN` · `VEN` · `HARU` · `INTJ/P` 
 
 **`// non-binary · he/him · chemical engineer · space nerd`**
 
