@@ -22,7 +22,7 @@
 
 <br/>
 
-<img width="140" height="150" alt="bark" src="https://github.com/user-attachments/assets/f5ea05a2-b0ed-4cc4-9af1-1da32e695911" />
+<img width="480" height="480" alt="Animation Loop GIF by xponentialdesign" src="https://github.com/user-attachments/assets/97589ceb-5e16-424e-98ed-4f16e4ff5480" />
 
 <br/><br/>
 
